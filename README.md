@@ -1,0 +1,2 @@
+# totodalus
+menganalisa uang
